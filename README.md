@@ -1,4 +1,3 @@
-Perfect 👍 Based on your notebook, here’s a complete professional **`README.md`** tailored for your **Retail Sales Prediction** project:
 
 ```markdown
 # 🛍️ Retail Sales Prediction with Machine Learning  
