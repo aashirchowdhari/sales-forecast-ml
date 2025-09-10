@@ -1,6 +1,6 @@
-
+# 🛍️ Retail Sales Prediction with Machine Learning
 ```markdown
-# 🛍️ Retail Sales Prediction with Machine Learning  
+  
 
 This project is an **end-to-end machine learning pipeline** for **retail sales forecasting and revenue prediction**.  
 It uses transaction-level data (shop, item, price, quantity) to predict daily revenue and sales volume.  
@@ -101,7 +101,5 @@ Distributed under the **MIT License**.
 ```
 
 ---
-
-⚡ Next step: I can also create a **`requirements.txt`** file for you (with `pandas`, `numpy`, `scikit-learn`, `xgboost`, `matplotlib`, `seaborn`) so the repo is fully ready-to-run.  
 
 ```
